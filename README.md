@@ -18,5 +18,5 @@ MyToken is a simple token contract in which public variables having token detail
   <li> Congratulations, the code is successfully running. </li>
 </ol>
 ## Authors
-Metacrafter Vijay Devra
+Metacrafter MKSURESHBABU
 https://academy.metacrafters.io/
