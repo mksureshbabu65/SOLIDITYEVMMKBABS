@@ -8,7 +8,7 @@ MyToken is a simple token contract in which public variables having token detail
 ## Getting Started
 ### Executing Program
 <ol> 
-  <li> Copy the code written in <a href = "token-soliditytokenmkbabs.sol"> token-ikigai.sol </a>.</li>
+  <li> Copy the code written in soliditytokenmkbabs.sol</li>
   <li> Open <a href = "https://remix.ethereum.org/"> Remix </a> IDE in your browser. </li>
   <li> Create a new file with any name followed by <strong>.sol</strong> extension. </li>
   <li> Paste the code in the file. </li>
